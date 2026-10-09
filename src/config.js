@@ -4,7 +4,7 @@ import fotoUltah from './assets/pfp.webp'
 export const BIRTHDAY_CONFIG = {
     name: "Aurelia",
     birthMonth: 10, // Catatan: Jika bulan Juli = 7, jika Oktober = 10 (Sesuaikan dengan logika codingmu)
-    birthDate: 10,
+    birthDate: 12,
     birthYear: 2005,
     passkey: 'aureljelek',
     // Daftar nama panggilan atau sebutan elegan untuk efek Typewriter berganti-ganti
